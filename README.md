@@ -290,21 +290,13 @@ Ensure both the frontend and backend servers are running.
 
 Screenshots can be added to the `screenshots` directory.
 
-### Dashboard
+![SmartERP Dashboard](screenshots/Dashboard.png)
 
-![SmartERP Dashboard](screenshots/dashboard.png)
+![GIS Service Map](screenshots/gis_map.png)
 
-### GIS Service Map
+![Technician Management](screenshots/Technicians.png)
 
-![GIS Service Map](screenshots/gis-map.png)
-
-### Smart Technician Recommendations
-
-![Smart Recommendations](screenshots/smart-recommendations.png)
-
-### Work Order Management
-
-![Work Order Management](screenshots/work-orders.png)
+![Work Order Management](screenshots/work_orders.png)
 
 *Note: Add the corresponding image files before the screenshots will appear on GitHub.*
 
